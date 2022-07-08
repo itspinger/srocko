@@ -1,0 +1,19 @@
+{
+  "name": "srocko",
+  "version": "1.0.0-beta",
+  "description": "serbian version of wordle",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itspinger/srocko.git"
+  },
+  "author": "pinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itspinger/srocko/issues"
+  },
+  "homepage": "https://github.com/itspinger/srocko#readme"
+}
