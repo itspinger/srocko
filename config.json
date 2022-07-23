@@ -1,0 +1,22 @@
+{
+  "development": {
+    "config_id": "development",
+    "production": false,
+    "node_port": 3030,
+    "session_cookie": {
+      "name": "session",
+      "duration": 172800000
+    }
+  },
+  "beta": {
+    "config_id": "beta"
+  },
+  "production": {
+    "config_id": "production",
+    "production": true,
+    "node_port": 8000,
+    "grpc": {
+      "ip": "127.0.0.1"
+    }
+  }
+}
